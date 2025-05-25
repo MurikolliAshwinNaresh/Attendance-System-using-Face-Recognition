@@ -27,7 +27,7 @@
 ![<img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/1.PNG'>](https://github.com/Drakon0501/Face-recognition-based-attendance-system/blob/b76969f639edec3feffcd40168b7f9fcec1607d1/Project%20Snap/3.png)
 
 ### While taking Image
-![Screenshot (103)](https://github.com/Drakon0501/Face-recognition-based-attendance-system/blob/5834a8ba9b7e86c37398a0e38cf0c6501802755a/Project%20Snap/6.png)
+![Screenshot (103)](https://github.com/MurikolliAshwinNaresh/Attendance-System-using-Face-Recognition/blob/659602b7a8d3f2d16b54f4ba897c27d671084ad3/Project%20Snap/WhatsApp%20Image%202025-05-25%20at%2023.47.27_0fa1a6cf.jpg)
 
 ## While taking Attendance
 ![Screenshot (91)](https://github.com/Drakon0501/Face-recognition-based-attendance-system/blob/99402133c35cedf1a354a231c054b873f8880331/Project%20Snap/1.png)
